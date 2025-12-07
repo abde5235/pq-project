@@ -1,0 +1,17 @@
+# Python venv
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data and generated stuff
+data/
+graphs/
+wireshark/
+
+# Misc editor files
+*.swp
+*.swo
+.vscode/
+.idea/
