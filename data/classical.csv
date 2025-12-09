@@ -1,0 +1,4 @@
+family,algorithm,operation,avg_time_s
+classical,RSA-2048,keygen,0.7933882157999506
+classical,RSA-4096,keygen,4.805825170799835
+classical,ECDSA-P256,keygen,0.01372082780007986

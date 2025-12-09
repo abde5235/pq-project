@@ -1,0 +1,7 @@
+family,algorithm,operation,avg_time_s
+pqc,Kyber768,keygen,0.0004752636000011989
+pqc,Kyber768,encaps,4.795092000676959e-05
+pqc,Kyber768,decaps,2.8049779939465224e-05
+pqc,ML-DSA-87,keygen,0.00016569918000641337
+pqc,ML-DSA-87,sign,0.00023473119999835036
+pqc,ML-DSA-87,verify,0.00011463190000540635
